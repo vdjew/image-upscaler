@@ -1,4 +1,6 @@
 # Picture Upscaler
+live-webapp: https://picture-upscaler.vercel.app
+
 
 A GUI image upscaler written in Rust and Vue3 using Tauri.
 
